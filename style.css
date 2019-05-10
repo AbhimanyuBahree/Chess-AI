@@ -1,0 +1,36 @@
+.board {
+margin: auto;
+}
+.inv {
+display: none;
+margin: 15px auto;
+}
+h1 {
+text-align: center;
+
+}
+
+.newgame {
+display: block;
+margin: auto;
+}
+
+
+
+.verdict {
+display: none;
+width: 200px;
+top: 120px;
+background-color: rgba(84, 207, 7, 0.4);
+position: absolute;
+left: 50%;
+margin-left: -100px;
+padding-top: 50px;
+padding-bottom: 50px;
+text-align: center;
+border-radius: 5px;
+color: white;
+font-size: 2em;
+
+
+}
